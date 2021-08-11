@@ -10,14 +10,14 @@ Commençons donc avec la partie front-end de notre projet.
 
 ## React
 
-React est un framework JavaScript pour faire du front-end/des interfaces utilisateurs. Pour ceux qui n'ont jamais utilisé des frameworks de ce genre, voici quelques exemples de ce que ça permet de faire.
-
-Ce qui est cool avec ce framework en comparaison avec d'autres (Angular, Vue, etc), c'est qu'il est le plus largement poussé par la communauté Open Source. Pour ceux à qui ça ne dit rien, ça veut simplement dire qu'il y a d'autres développeurs comme vous et moi qui travaillent sur React dans le but de l'améliorer pour qu'il devienne au sommet de ses capacités. Et sans oublier le fait que c'est à la base développé par Facebook.
+React est une librairie JavaScript pour faire du front-end/des interfaces utilisateurs. Pour ceux qui n'ont jamais utilisé des librairies de ce genre, voici quelques exemples de ce que ça permet de faire.
 
 - Création d'interfaces utilisateurs intéractives.
 - Gestion des états et mise à jour automatique lors des changements de données
 - Une syntaxe plus simple et moins lourde pour faire des interfaces
 - À base de composants réutilisables et simples pour faire des interfaces complexes
+
+Ce qui est cool avec cette librairie en comparaison avec d'autres (Angular, Vue, etc), c'est qu'il est le plus largement poussé par la communauté Open Source. Pour ceux à qui ça ne dit rien, ça veut simplement dire qu'il y a d'autres développeurs comme vous et moi qui travaillent sur React dans le but de l'améliorer pour qu'il devienne au sommet de ses capacités. Et sans oublier le fait que c'est à la base développé par Facebook.
 
 Et plus spécifiquement pour React, il est possible de l'utiliser partout. Même pour faire du mobile ! (Voir [React Native]("https://reactnative.dev/))
 
